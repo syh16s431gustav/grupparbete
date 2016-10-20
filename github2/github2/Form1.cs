@@ -20,6 +20,8 @@ namespace github2
         private void Form1_Load(object sender, EventArgs e)
         {
             //github2 gjorde något
+            //gitthub1 gjorde något mer mannnnn
+
         }
     }
 }
